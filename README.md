@@ -6,6 +6,7 @@
 - **Modular Plugin System:** Extend functionality easily by creating and integrating plugins *(Theres some plugins included already)*.
 - **Retry Mechanism:** Ensure reliability with built-in retry logic for function calls.
 - **Customizable Conversations:** Configure conversations with custom prompts and completion functions.
+- **Dependency-less:** A hassle-free package.
 
 ## Included Plugins
 - **External Functions:** The functionality of custom GPT **Actions**.
