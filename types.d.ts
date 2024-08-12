@@ -1,10 +1,7 @@
 declare module "llmkit" {
-    export * from "./lib/conversation";
-    export * from "./lib/random";
-    export * from "./lib/retry";
-    export * from "./lib/errors";
-}
-
-declare module "llmkit/plugins" {
-    export * from "./plugins";
+    export * from "./lib/conversation.js";
+    export * from "./lib/errors.js";
+    export * from "./lib/random.js";
+    export * from "./lib/retry.js";
+    export * from "./lib/tools/external.js";
 }
